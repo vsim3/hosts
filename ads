@@ -87,9 +87,9 @@ yomedia.vn
 
 ########## Blacklist from https://someonewhocares.org/hosts/hosts ##########
 
-# Ignored duplicates: 5531
+# Ignored duplicates: 5532
 
-# Ignored entries due to the whitelist: 12
+# Ignored entries due to the whitelist: 11
 
 www.weknow.ac
 ap76rmx3.accountant
@@ -4908,7 +4908,6 @@ tour.sweetdiscreet.com
 sweetsforfree.com
 swfhostltd.com
 ads.swiftnews.com
-delivery.swid.switchads.com
 adpick.switchboard.com
 ads.switchboard.com
 symbiosting.com
@@ -6826,6 +6825,7 @@ www.apple.com-speed-macbook.live
 watch-this.live
 windowgolddealtheclicks.live
 apps9039.super-your-prize33.loan
+localhost.localdomain
 ads.5ci.lt
 www.bovadapromotions.lv
 knc.lv
@@ -16927,7 +16927,7 @@ zzwajufm.com
 
 ########## Blacklist from http://sysctl.org/cameleon/hosts ##########
 
-# Ignored duplicates: 8659
+# Ignored duplicates: 8660
 
 # Ignored entries due to the whitelist: 8
 
@@ -24386,7 +24386,6 @@ www.swanksoft.com
 banners.swapfinder.com
 adbanner.sweepsclub.com
 ard.sweetdiscreet.com
-delivery.platform.switchads.com
 swtkes.com
 sxtracking.com
 om.symantec.com
@@ -31102,6 +31101,7 @@ gobali.cn
 godloveme.cn
 goodgz.cn
 googlealiyun.cn
+googlespider1.cn
 goulanmeng.cn
 gouzhibao.cn
 greenhouseglobal.cn
@@ -35075,7 +35075,7 @@ yajiuwz.xyz
 
 ########## Blacklist from http://www.squidblacklist.org/downloads/sbl-adblock.acl ##########
 
-# Ignored duplicates: 2021
+# Ignored duplicates: 2025
 
 # Ignored entries due to the whitelist: 7
 
@@ -35336,6 +35336,7 @@ adstuna.com
 adsupplyssl.com
 adsurve.com
 adsvcs.com
+adszom.com
 adtecc.com
 adtheorent.com
 adtoox.com
@@ -35649,6 +35650,7 @@ track.clubaustinkincaid.com
 track.clubheshe.com
 track.clubvaniity.com
 ad.cntrades.com
+track.cockrockingteens.com
 coedmediagroup.com
 cogsdigital.com
 coguan.com
@@ -36635,9 +36637,11 @@ tracking.surikate.com
 survey-poll.com
 sw1block.com
 swelen.com
+switchads.com
 swoop.com
 t3q7af0z.com
 track.tabooinsertions.com
+track.tabootrannys.com
 tacrater.com
 tacticalrepublic.com
 tagjunction.com
@@ -36981,7 +36985,6 @@ admaya.in
 buyt.in
 inuxu.co.in
 ads.motivateme.in
-mrperfect.in
 networkplay.in
 pixtrack.in
 2mdn.info
@@ -37000,6 +37003,7 @@ musicnote.info
 myemailbox.info
 reate.info
 samvinva.info
+sethads.info
 adexchange.io
 atas.io
 firstimpression.io
@@ -37106,6 +37110,7 @@ track.adrianalynnrush.net
 ads-elsevier.net
 adsafety.net
 adscpm.net
+adsfundi.net
 adsparc.net
 adsparkmedia.net
 adultimate.net
@@ -38262,6 +38267,7 @@ dcpromo1.com
 ddbfd4e491c5.com
 dddevki4u.com
 ddomb.com
+debitcrebit669.com
 decce2efaeca.com
 dedicatedgroups.com
 dee7101d4cae.com
@@ -44548,15 +44554,12 @@ smiinform.zone
 
 ########## Blacklist from file:domains-blacklist-local-additions.txt ##########
 
-# Ignored entries due to the whitelist: 2
+# Ignored entries due to the whitelist: 1
 
-banner.*
-banners.*
-telemetry.*
-tracker.*
 ibpxl.com
 internetbrands.com
 *.local
+*.localdomain
 eth0.me
 *.workgroup
 
@@ -44898,6 +44901,7 @@ www.myduolife.com
 pl.mysafesmartphone.com
 myway.com
 www.myworld.com
+cs.nailrr.com
 nameguess.com
 nametests.com
 neospes.com
@@ -45220,6 +45224,7 @@ centrum-agd.net
 www.centrum-kredytowe.net
 coolvids.net
 daily-jokes.net
+dark-forum.net
 darmowe-ebooki.net
 doladujfona.net
 domhandlowy.net
@@ -45360,6 +45365,7 @@ acaiberryextreme.pl
 acneuro.pl
 act-natural-sklep.pl
 www.act-natural.pl
+adamdelivery.pl
 www.adamkepinski.pl
 www.adidasbuty.pl
 adidaspureboost.pl
@@ -45426,6 +45432,7 @@ zejrzyj-zdjecia.bo.pl
 bony-zakupowe.pl
 boryskowalski.pl
 bramka-sms-za-darmo.pl
+btc-forum.pl
 www.bueongi.pl
 buty-shoes4u.pl
 www.butyadidas.pl
@@ -46152,7 +46159,7 @@ zcontentlocker7gpa8a.xyz
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########
 
-# Ignored duplicates: 10804
+# Ignored duplicates: 10806
 
 # Ignored entries due to the whitelist: 4
 
@@ -47660,7 +47667,6 @@ adsrvmedia.com
 adsupermarket.com
 adswam.com
 adsxgm.com
-adszom.com
 adtbomthnsyz.com
 adtdp.com
 adtear.com
@@ -48623,6 +48629,7 @@ deliverytaste.com
 delnapb.com
 demanier.com
 dematom.com
+denis-pj0823031-491201b.com
 denotyro.com
 depravedwhores.com
 depresis.com
@@ -49325,6 +49332,7 @@ hbedvoyluzmq.com
 hbrbtmjyvdsy.com
 hd-plugin.com
 hd100546b.com
+hd149026b.com
 hdplayer-download.com
 hdpreview.com
 hdvid-codec.com
@@ -53097,6 +53105,7 @@ ctnet2.in
 watchfree.flv.in
 hover.in
 koinser.in
+mrperfect.in
 nasdak.in
 replacescript.in
 w3bnr.in
@@ -53402,7 +53411,6 @@ sconcentpract.info
 securesoft.info
 sedatorsinted.info
 sellously.info
-sethads.info
 shemirta.info
 shiloso.info
 shinasi.info
@@ -53676,7 +53684,6 @@ ads-codes.net
 adserved.net
 adsfactor.net
 adsfan.net
-adsfundi.net
 tags2.adshell.net
 adsnext.net
 adsrvmedia.net

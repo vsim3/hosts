@@ -190,9 +190,9 @@ xvhvm.top
 
 ########## Blacklist from https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt ##########
 
-# Ignored duplicates: 1919
+# Ignored duplicates: 1922
 
-# Ignored entries due to the whitelist: 1
+# Ignored entries due to the whitelist: 3
 
 hostingcloud.accountant
 aba.ae
@@ -706,7 +706,6 @@ jquery-uim.download
 jqwww.download
 jshosting.download
 ullnot.download
-lib.rus.ec
 play.es
 ahoypiratebaai.eu
 authedmine.eu
@@ -848,6 +847,7 @@ www.verifier.li
 2giga.link
 cpu2cash.link
 hostcontent.live
+www.hostingcloud.live
 verifier.live
 cfcdist.loan
 freecontent.loan
@@ -1106,7 +1106,6 @@ ppoi.org
 pr0gram.org
 proxy4life.org
 spacepools.org
-thepiratebay.org
 tpbproxyone.org
 unblocktheship.org
 altavista.ovh
@@ -1234,7 +1233,6 @@ etlrsq.ru
 etzbnfuigipwvs.ru
 fatisin.ru
 fdtpyqqsnzxvt.ru
-financeforum.ru
 fljgsht.ru
 fortrader.ru
 ftzivuesohvebj.ru
@@ -1986,6 +1984,7 @@ isupopc.com
 itmcash.com
 itrxx.com
 itslive.com
+itspsmup.com
 itsup.com
 iupot.com
 iwanttodeliver.com
@@ -2276,6 +2275,7 @@ sms-xxx.com
 soadvr.com
 solutionsadultes.com
 soonbigo.com
+souvlatraffic.com
 spankmasters.com
 spcwm.com
 spunkycash.com

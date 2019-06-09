@@ -21082,29 +21082,20 @@
 127.0.0.1	ebcounter.co.za
 
 
-########## Blacklist from file:rebind-blacklist.txt ##########
+########## Blacklist from file:domains-blacklist-local-additions.txt ##########
 
-127.0.0.1	0.*
-127.0.0.1	72.16.*
-127.0.0.1	92.168.*
-127.0.0.1	72.17.*
-127.0.0.1	13.171.*
-127.0.0.1	72.18.*
-127.0.0.1	72.19.*
-127.0.0.1	72.20.*
-127.0.0.1	72.21.*
-127.0.0.1	72.22.*
-127.0.0.1	72.23.*
-127.0.0.1	72.24.*
-127.0.0.1	72.25.*
-127.0.0.1	72.26.*
-127.0.0.1	72.27.*
-127.0.0.1	72.28.*
-127.0.0.1	23.29.*
-127.0.0.1	72.29.*
-127.0.0.1	72.30.*
-127.0.0.1	23.31.*
-127.0.0.1	72.31.*
+# Ignored entries due to the whitelist: 1
+
+127.0.0.1	iwhebey.com
+127.0.0.1	bpxl.com
+127.0.0.1	nternetbrands.com
+127.0.0.1	ventronbesed.info
+127.0.0.1	.local
+127.0.0.1	.localdomain
+127.0.0.1	vsex.me
+127.0.0.1	th0.me
+127.0.0.1	asterhestabu.pro
+127.0.0.1	.workgroup
 
 
 ########## Blacklist from https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt ##########
@@ -52685,22 +52676,6 @@
 127.0.0.1	inkdebrideur.xyz
 127.0.0.1	araphingxmfevapk.xyz
 127.0.0.1	contentlocker7gpa8a.xyz
-
-
-########## Blacklist from file:domains-blacklist-local-additions.txt ##########
-
-# Ignored entries due to the whitelist: 1
-
-127.0.0.1	iwhebey.com
-127.0.0.1	bpxl.com
-127.0.0.1	nternetbrands.com
-127.0.0.1	ventronbesed.info
-127.0.0.1	.local
-127.0.0.1	.localdomain
-127.0.0.1	vsex.me
-127.0.0.1	th0.me
-127.0.0.1	asterhestabu.pro
-127.0.0.1	.workgroup
 
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########

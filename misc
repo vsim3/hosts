@@ -1,0 +1,16 @@
+ad.*
+ads.*
+banner.*
+banners.*
+creatives.*
+oas.*
+oascentral.*
+stats.*
+tag.*
+telemetry.*
+tracker.*
+
+*.lan
+*.local
+*.localdomain
+*.workgroup 

@@ -1,12 +1,12 @@
-ad.*
-ads.*
-banner.*
-banners.*
-creatives.*
-oas.*
-oascentral.*
-stats.*
-tag.*
+#ad.*
+#ads.*
+#banner.*
+#banners.*
+#creatives.*
+#oas.*
+#oascentral.*
+#stats.*
+#tag.*
 telemetry.*
 tracker.*
 

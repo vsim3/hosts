@@ -192,7 +192,7 @@
 
 # Ignored duplicates: 1922
 
-# Ignored entries due to the whitelist: 3
+# Ignored entries due to the whitelist: 13
 
 0.0.0.0	hostingcloud.accountant
 0.0.0.0	aba.ae
@@ -1365,16 +1365,6 @@
 0.0.0.0	ron.si
 0.0.0.0	smartoffer.si
 0.0.0.0	xvideosharing.si
-0.0.0.0	anybest.site
-0.0.0.0	coiner.site
-0.0.0.0	cryptosearch.site
-0.0.0.0	play.mnr.dorama.site
-0.0.0.0	dubester.site
-0.0.0.0	mighbest.site
-0.0.0.0	siteverification.site
-0.0.0.0	smartoffer.site
-0.0.0.0	whchsvlxch.site
-0.0.0.0	xvideosharing.site
 0.0.0.0	cloudflare.solutions
 0.0.0.0	1beb2a44.space
 0.0.0.0	300ca0d0.space
@@ -1550,6 +1540,8 @@
 
 
 ########## Blacklist from https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt ##########
+
+# Ignored entries due to the whitelist: 1
 
 0.0.0.0	haeg1ei.bid
 0.0.0.0	3gporn.biz
@@ -2713,7 +2705,6 @@
 0.0.0.0	vsexshop.ru
 0.0.0.0	webteaser.ru
 0.0.0.0	abbp1.science
-0.0.0.0	adspayformy.site
 0.0.0.0	abbp1.space
 0.0.0.0	acceptableads.space
 0.0.0.0	dlski.space
@@ -2775,7 +2766,7 @@
 
 # Ignored duplicates: 17
 
-# Ignored entries due to the whitelist: 3
+# Ignored entries due to the whitelist: 10
 
 0.0.0.0	eos.ac
 0.0.0.0	myetherwallet.com.am
@@ -3752,13 +3743,6 @@
 0.0.0.0	universa.sale
 0.0.0.0	docai.science
 0.0.0.0	myetherwallat.services
-0.0.0.0	bluzelle.site
-0.0.0.0	envion.site
-0.0.0.0	iconfoundation.site
-0.0.0.0	omisegonetwork.site
-0.0.0.0	spectre.site
-0.0.0.0	stormtoken.site
-0.0.0.0	tronlab.site
 0.0.0.0	utrust.so
 0.0.0.0	ico-nexus.social
 0.0.0.0	iconexu.social

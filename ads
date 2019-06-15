@@ -92,7 +92,7 @@
 
 ########## Blacklist from https://someonewhocares.org/hosts/hosts ##########
 
-# Ignored duplicates: 5792
+# Ignored duplicates: 5795
 
 # Ignored entries due to the whitelist: 33
 
@@ -612,6 +612,7 @@
 0.0.0.0	www.novelsys.co
 0.0.0.0	l.ohmyad.co
 0.0.0.0	okel.co
+0.0.0.0	servt.playbuzz.co
 0.0.0.0	playstream.co
 0.0.0.0	pleasewait.co
 0.0.0.0	pixel-geo.prfct.co
@@ -7750,6 +7751,7 @@
 0.0.0.0	get.x-link.pl
 0.0.0.0	openx.xenium.pl
 0.0.0.0	im.xo.pl
+0.0.0.0	cdn.ad.plus
 0.0.0.0	nst.broadcast.pm
 0.0.0.0	dietoftoday.ca.pn
 0.0.0.0	ioubes.press
@@ -23350,6 +23352,7 @@
 0.0.0.0	aitdwhmcvlm.com
 0.0.0.0	aizopowmtnho.com
 0.0.0.0	ajaeihzlcwvn.com
+0.0.0.0	ajcsjktzlqh.com
 0.0.0.0	ajfziqehnwvz.com
 0.0.0.0	ajizjpjkrnh.com
 0.0.0.0	ajmggjgrardn.com
@@ -23530,6 +23533,7 @@
 0.0.0.0	bahnjhnrcdwi.com
 0.0.0.0	baiaclwdpztd.com
 0.0.0.0	bajofdblygev.com
+0.0.0.0	bakaqddxhhsid.com
 0.0.0.0	bakdsoarxjab.com
 0.0.0.0	banuhqxbc.com
 0.0.0.0	baphruesqm.com
@@ -23541,6 +23545,7 @@
 0.0.0.0	bbfasycx.com
 0.0.0.0	bbheuxcancwj.com
 0.0.0.0	bbillwowlfur.com
+0.0.0.0	bbitetuncmwfjd.com
 0.0.0.0	bblznptpffqc.com
 0.0.0.0	bbnnjjom.com
 0.0.0.0	bbxaumvpzqpunx.com
@@ -23770,6 +23775,7 @@
 0.0.0.0	byxlivaqzo.com
 0.0.0.0	bzeitvxguf.com
 0.0.0.0	bzfguipyjops.com
+0.0.0.0	bzfvcavza.com
 0.0.0.0	bzgwkxnjqjdz.com
 0.0.0.0	bzkmfzoxqmau.com
 0.0.0.0	bznmgijglbpr.com
@@ -23979,11 +23985,13 @@
 0.0.0.0	csdzhoku.com
 0.0.0.0	cshzkkihjnweb.com
 0.0.0.0	csionjbak.com
+0.0.0.0	csjayzqifekaq.com
 0.0.0.0	cskwckhyhriyk.com
 0.0.0.0	cslxhmchzgbx.com
 0.0.0.0	csouqeeviwo.com
 0.0.0.0	cspyozjbwb.com
 0.0.0.0	cstdfxkxbqbc.com
+0.0.0.0	cstfzgckbtrb.com
 0.0.0.0	csxokexd.com
 0.0.0.0	csyngxtkifrh.com
 0.0.0.0	ctcpwymaeuwnqd.com
@@ -24015,6 +24023,7 @@
 0.0.0.0	cvzixxiesyjkha.com
 0.0.0.0	cwbbqhgtjbvtzi.com
 0.0.0.0	cwdnbhhmdnm.com
+0.0.0.0	cwfikuwyjwnev.com
 0.0.0.0	cwliihvsjckn.com
 0.0.0.0	cwmycjoddoq.com
 0.0.0.0	cwofongvtbsi.com
@@ -24150,6 +24159,7 @@
 0.0.0.0	djnroblmpyxrh.com
 0.0.0.0	djqercix.com
 0.0.0.0	djuxmbjauluis.com
+0.0.0.0	djvpsxtkdmga.com
 0.0.0.0	djxvususwvso.com
 0.0.0.0	dkfdpglo.com
 0.0.0.0	dkgitkwo.com
@@ -24694,6 +24704,7 @@
 0.0.0.0	fnaolgfubmlc.com
 0.0.0.0	fnayazchhum.com
 0.0.0.0	fnbhjbcfqkrcs.com
+0.0.0.0	fnfhplmys.com
 0.0.0.0	fngoubeq.com
 0.0.0.0	fnhogffqzmcqj.com
 0.0.0.0	fnjcriccyuna.com
@@ -24961,6 +24972,7 @@
 0.0.0.0	gmcyfkrtw.com
 0.0.0.0	gmeomlvmqlmu.com
 0.0.0.0	gmfestfc.com
+0.0.0.0	gmjhwyby.com
 0.0.0.0	gmowaloqmhtd.com
 0.0.0.0	gmqczpcyzjeen.com
 0.0.0.0	gmquualzdmqtxp.com
@@ -25060,6 +25072,7 @@
 0.0.0.0	gumdeqjzclc.com
 0.0.0.0	guoyhfjrpt.com
 0.0.0.0	gurrfwsscwda.com
+0.0.0.0	gusxyrtlnyv.com
 0.0.0.0	gutccaxnwso.com
 0.0.0.0	gvahzhgblkkyr.com
 0.0.0.0	gverjfuapaag.com
@@ -25071,6 +25084,7 @@
 0.0.0.0	gvrqquiotcyr.com
 0.0.0.0	gvwyxnyq.com
 0.0.0.0	gvxobjcxcbkb.com
+0.0.0.0	gvzphwswtv.com
 0.0.0.0	gwovohvkzay.com
 0.0.0.0	gwquuagkjxbq.com
 0.0.0.0	gwxaulcgmizcq.com
@@ -26055,6 +26069,7 @@
 0.0.0.0	kknvwhcmqoet.com
 0.0.0.0	kknwvfdzyqzj.com
 0.0.0.0	kksoyysmpp.com
+0.0.0.0	kkxrizpdh.com
 0.0.0.0	klakcdiqmgxq.com
 0.0.0.0	kldyclplx.com
 0.0.0.0	klepuazuxv.com
@@ -26170,6 +26185,7 @@
 0.0.0.0	kvcymnoxr.com
 0.0.0.0	kvdguzclhatdul.com
 0.0.0.0	kvdjcnerhxzb.com
+0.0.0.0	kvflzevaaco.com
 0.0.0.0	kvhxckkd.com
 0.0.0.0	kvkoqywl.com
 0.0.0.0	kvnldhrlw.com
@@ -26667,6 +26683,7 @@
 0.0.0.0	msmaijsxlo.com
 0.0.0.0	msoiqafieh.com
 0.0.0.0	mspaimzv.com
+0.0.0.0	mspgkbvxtl.com
 0.0.0.0	mspnlttfp.com
 0.0.0.0	msrwoxdkffcl.com
 0.0.0.0	mstmrspnqqevsu.com
@@ -26867,6 +26884,7 @@
 0.0.0.0	nmwzrcdzbrjj.com
 0.0.0.0	nmywwgnnkmud.com
 0.0.0.0	nnbestmblotl.com
+0.0.0.0	nndgxdunwvte.com
 0.0.0.0	nngfrvcf.com
 0.0.0.0	nnhuvmftitju.com
 0.0.0.0	nnjiluslnwli.com
@@ -27821,6 +27839,7 @@
 0.0.0.0	rdpqiqlirf.com
 0.0.0.0	rdqyasdstllr.com
 0.0.0.0	rdrkxlmlqpqns.com
+0.0.0.0	rdthuvynnwgind.com
 0.0.0.0	rdvrxbxwxspxd.com
 0.0.0.0	rdwcvesg.com
 0.0.0.0	realnwspfbumn.com
@@ -27913,6 +27932,7 @@
 0.0.0.0	rmhdjambba.com
 0.0.0.0	rmjwdosemtg.com
 0.0.0.0	rmlzgvnuqxlp.com
+0.0.0.0	rmnwxcpccuzwe.com
 0.0.0.0	rmputwrbacfrf.com
 0.0.0.0	rmvlpkaa.com
 0.0.0.0	rmwjtqazyk.com
@@ -28418,6 +28438,7 @@
 0.0.0.0	tmtuohxkv.com
 0.0.0.0	tmwhazsjnhip.com
 0.0.0.0	tmwmigsb.com
+0.0.0.0	tmxmckanu.com
 0.0.0.0	tnacywet.com
 0.0.0.0	tncexvzu.com
 0.0.0.0	tnjjkxhyai.com
@@ -28551,6 +28572,7 @@
 0.0.0.0	uabicxuyovh.com
 0.0.0.0	uaczwcws.com
 0.0.0.0	uafgymcern.com
+0.0.0.0	uaiilmuujsu.com
 0.0.0.0	uamgajydnv.com
 0.0.0.0	uaneklzqph.com
 0.0.0.0	uanomwcxixed.com
@@ -28696,6 +28718,7 @@
 0.0.0.0	usclxdvvvnkdrv.com
 0.0.0.0	usdlgonjnzpu.com
 0.0.0.0	usfmamdapvmfs.com
+0.0.0.0	usrvgxowmn.com
 0.0.0.0	usvgzajftrzkr.com
 0.0.0.0	uswgkadyika.com
 0.0.0.0	uthifuehb.com
@@ -28879,6 +28902,7 @@
 0.0.0.0	wjvwxcnavjodj.com
 0.0.0.0	wjwontqlqchq.com
 0.0.0.0	wkhkffefck.com
+0.0.0.0	wkloqctyiyow.com
 0.0.0.0	wkwakmsttsehi.com
 0.0.0.0	wlezfkwtv.com
 0.0.0.0	wlhbgwzgep.com
@@ -28975,6 +28999,7 @@
 0.0.0.0	xiodoyvbauv.com
 0.0.0.0	xiqlaxjbzjei.com
 0.0.0.0	xirlmiyihvpi.com
+0.0.0.0	xjahyyhailnj.com
 0.0.0.0	xjdriaiyy.com
 0.0.0.0	xjjfgxdfpr.com
 0.0.0.0	xjtiqdylurgima.com
@@ -28985,6 +29010,7 @@
 0.0.0.0	xlnwabndmqn.com
 0.0.0.0	xlqkpyimdep.com
 0.0.0.0	xmevsiig.com
+0.0.0.0	xmnnurmdrjmd.com
 0.0.0.0	xmrchaqjwqyvz.com
 0.0.0.0	xnfwhndl.com
 0.0.0.0	xnmwxndqhyt.com
@@ -29005,6 +29031,7 @@
 0.0.0.0	xskbsyssik.com
 0.0.0.0	xsqylzml.com
 0.0.0.0	xtccyvimdr.com
+0.0.0.0	xtcfsrxmz.com
 0.0.0.0	xtixyzjeibh.com
 0.0.0.0	xtsnbxwak.com
 0.0.0.0	xudfxpvm.com
@@ -29071,6 +29098,7 @@
 0.0.0.0	ylnmzwwc.com
 0.0.0.0	yloidlvfhpkq.com
 0.0.0.0	ylqbiljjlyq.com
+0.0.0.0	ymerjqsynqoxdm.com
 0.0.0.0	ymhqeelitngcr.com
 0.0.0.0	ympkaxpaf.com
 0.0.0.0	ymzrrizntbhde.com
@@ -29176,6 +29204,7 @@
 0.0.0.0	zksdztizohcfy.com
 0.0.0.0	zlahmbwm.com
 0.0.0.0	zlegojgwg.com
+0.0.0.0	zlkrsqad.com
 0.0.0.0	zmkihizd.com
 0.0.0.0	zmogtyau.com
 0.0.0.0	znbokxhkwx.com
@@ -37607,7 +37636,7 @@
 
 ########## Blacklist from https://pgl.yoyo.org/adservers/serverlist.php ##########
 
-# Ignored duplicates: 1762
+# Ignored duplicates: 1761
 
 # Ignored entries due to the whitelist: 2
 
@@ -45545,6 +45574,7 @@
 0.0.0.0	mhjsr.com
 0.0.0.0	mhzaj.com
 0.0.0.0	mi5h2zku5s.com
+0.0.0.0	mibmcbm.com
 0.0.0.0	micro-win.com
 0.0.0.0	minroszdrav.com
 0.0.0.0	miokoo.com
@@ -51149,7 +51179,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt ##########
 
-# Ignored duplicates: 152
+# Ignored duplicates: 1536
 
 # Ignored entries due to the whitelist: 8
 
@@ -51225,7 +51255,6 @@
 0.0.0.0	appsdorado.com
 0.0.0.0	fhgfffdsf9.appspot.com
 0.0.0.0	ariix.com
-0.0.0.0	www.ask.com
 0.0.0.0	atcofiles.com
 0.0.0.0	aveplay.com
 0.0.0.0	aveprize.com
@@ -51881,6 +51910,7 @@
 0.0.0.0	rtvagdpro.net
 0.0.0.0	santos24.net
 0.0.0.0	sendgrid.net
+0.0.0.0	sexmonitor.net
 0.0.0.0	www.slawop.net
 0.0.0.0	szoping.net
 0.0.0.0	tniemyceny.net
@@ -51899,6 +51929,7 @@
 0.0.0.0	www.optidee.nl
 0.0.0.0	atlanticgam.online
 0.0.0.0	fireads.online
+0.0.0.0	ssl.full-secure-payments.online
 0.0.0.0	gifts-for-free.online
 0.0.0.0	ogladaj.online
 0.0.0.0	premiumlinkgenerator.online
@@ -51997,7 +52028,6 @@
 0.0.0.0	artstructures.pl
 0.0.0.0	www.as-chwilowka.pl
 0.0.0.0	assat.pl
-0.0.0.0	avangarza.pl
 0.0.0.0	awarialaptopa.pl
 0.0.0.0	az27.pl
 0.0.0.0	bartekzukiewicz.pl
@@ -52009,6 +52039,7 @@
 0.0.0.0	besavia.pl
 0.0.0.0	www.betterware.pl
 0.0.0.0	beyourbest.pl
+0.0.0.0	ssl.bezpieczne-platnosci.pl
 0.0.0.0	bio-chemik24.pl
 0.0.0.0	biotalerz.pl
 0.0.0.0	blacklinepartners.pl
@@ -52031,7 +52062,6 @@
 0.0.0.0	kocham-cie.c0.pl
 0.0.0.0	casada.pl
 0.0.0.0	www.casadasklep.pl
-0.0.0.0	caxsoft.pl
 0.0.0.0	full-movies-online.cba.pl
 0.0.0.0	informujemy24h.cba.pl
 0.0.0.0	snap.cba.pl
@@ -52046,10 +52076,12 @@
 0.0.0.0	chomik-24.pl
 0.0.0.0	chomikui.pl
 0.0.0.0	chris-jasnowidz.pl
+0.0.0.0	chukka.pl
 0.0.0.0	www.cichodaje.pl
 0.0.0.0	ciekawinki.pl
 0.0.0.0	cinema-online.pl
 0.0.0.0	cinemateka.pl
+0.0.0.0	classicleather.pl
 0.0.0.0	file.co.pl
 0.0.0.0	gift-cards.co.pl
 0.0.0.0	pobierz-online.co.pl
@@ -52270,6 +52302,7 @@
 0.0.0.0	www.jasnypoker.pl
 0.0.0.0	jedz-eco.pl
 0.0.0.0	www.jelitto.pl
+0.0.0.0	jezyckiszuszwol.pl
 0.0.0.0	juicywin.pl
 0.0.0.0	justpolska.pl
 0.0.0.0	www.jutup.pl
@@ -52310,6 +52343,7 @@
 0.0.0.0	ldrcp.pl
 0.0.0.0	leadn.pl
 0.0.0.0	legitstore.pl
+0.0.0.0	leyda.pl
 0.0.0.0	pl.lider.pl
 0.0.0.0	life-star.pl
 0.0.0.0	lightcloud.pl
@@ -52479,6 +52513,7 @@
 0.0.0.0	pz21.pl
 0.0.0.0	quick-eye.pl
 0.0.0.0	qwer3.pl
+0.0.0.0	racerstore.pl
 0.0.0.0	www.rainbow.pl
 0.0.0.0	www.ralphlaurenskleponline.pl
 0.0.0.0	rap-share.pl
@@ -52513,7 +52548,6 @@
 0.0.0.0	skidrowreloaded.pl
 0.0.0.0	skinycs.pl
 0.0.0.0	sklep-colway.pl
-0.0.0.0	skleprtvagd24.pl
 0.0.0.0	skleptiande.pl
 0.0.0.0	15b37.skroc.pl
 0.0.0.0	kjhkgh.skroc.pl
@@ -52725,6 +52759,7 @@
 0.0.0.0	pl-ticket.today
 0.0.0.0	bestselections.top
 0.0.0.0	dketrade.top
+0.0.0.0	sexmonitor.top
 0.0.0.0	filmoteka.tv
 0.0.0.0	maendo.tv
 0.0.0.0	trackgsm.co.uk
@@ -52748,7 +52783,7 @@
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########
 
-# Ignored duplicates: 10860
+# Ignored duplicates: 10887
 
 # Ignored entries due to the whitelist: 21
 
@@ -53358,6 +53393,7 @@
 0.0.0.0	zzqnkezokbegc.bid
 0.0.0.0	zzvjaqnkq.bid
 0.0.0.0	zzwzjidz.bid
+0.0.0.0	292news.biz
 0.0.0.0	3gporn.biz
 0.0.0.0	adbit.biz
 0.0.0.0	adlure.biz
@@ -56629,6 +56665,7 @@
 0.0.0.0	manfys.com
 0.0.0.0	mangoforex.com
 0.0.0.0	maokdata.com
+0.0.0.0	mbid.marfeelrev.com
 0.0.0.0	marginalwoodfernrounddance.com
 0.0.0.0	marimedia.com
 0.0.0.0	markergot.com
@@ -61669,6 +61706,7 @@
 0.0.0.0	alamak.xyz
 0.0.0.0	albireo.xyz
 0.0.0.0	alltheladyz.xyz
+0.0.0.0	asdad.xyz
 0.0.0.0	backlogtop.xyz
 0.0.0.0	beiren.xyz
 0.0.0.0	bnbir.xyz

@@ -2,7 +2,7 @@
 
 ########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_Medium.txt ##########
 
-# Ignored duplicates: 2
+# Ignored duplicates: 3
 
 # Ignored entries due to the whitelist: 5
 
@@ -699,6 +699,7 @@
 0.0.0.0	rbg4hfbilrf7to452p89hrfq.boonmower.com
 0.0.0.0	server.bovine-mena.com
 0.0.0.0	mm266.bplaced.com
+0.0.0.0	br1vo.com
 0.0.0.0	branchtist.com
 0.0.0.0	kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com
 0.0.0.0	brightqain.com
@@ -2304,7 +2305,7 @@
 
 ########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_Low.txt ##########
 
-# Ignored duplicates: 2296
+# Ignored duplicates: 2298
 
 # Ignored entries due to the whitelist: 5
 

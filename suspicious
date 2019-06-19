@@ -797,6 +797,7 @@
 0.0.0.0	nnrtsdf34dsjhb23rsdf.spannflow.com
 0.0.0.0	sqxflow.com
 0.0.0.0	sslsam.com
+0.0.0.0	starsducks.com
 0.0.0.0	systemhelpr.com
 0.0.0.0	u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 0.0.0.0	trust-s-b.com
@@ -2305,7 +2306,7 @@
 
 ########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_Low.txt ##########
 
-# Ignored duplicates: 2298
+# Ignored duplicates: 2299
 
 # Ignored entries due to the whitelist: 5
 

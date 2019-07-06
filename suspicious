@@ -682,6 +682,7 @@
 0.0.0.0	www.1axb.com
 0.0.0.0	leon10.5gbfree.com
 0.0.0.0	spartanr.5gbfree.com
+0.0.0.0	activescrews.com
 0.0.0.0	y4bxj.adozeuds.com
 0.0.0.0	ahmedashid.com
 0.0.0.0	all-texproducts.com
@@ -2306,7 +2307,7 @@
 
 ########## Blacklist from https://www.dshield.org/feeds/suspiciousdomains_Low.txt ##########
 
-# Ignored duplicates: 2299
+# Ignored duplicates: 2300
 
 # Ignored entries due to the whitelist: 5
 

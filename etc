@@ -1541,8 +1541,9 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt ##########
 
-# Ignored entries due to the whitelist: 1
+# Ignored entries due to the whitelist: 2
 
+0.0.0.0	tube.ac
 0.0.0.0	haeg1ei.bid
 0.0.0.0	3gporn.biz
 0.0.0.0	adsyst.biz
@@ -1567,6 +1568,7 @@
 0.0.0.0	bumskontakte.ch
 0.0.0.0	accesssearch.click
 0.0.0.0	wct.click
+0.0.0.0	googleapi.club
 0.0.0.0	icapabloidsety.club
 0.0.0.0	reon.club
 0.0.0.0	revitalize.club
@@ -2244,6 +2246,7 @@
 0.0.0.0	sextubecash.com
 0.0.0.0	sexvertise.com
 0.0.0.0	sexy-ch.com
+0.0.0.0	sghehllds.com
 0.0.0.0	shareitpp.com
 0.0.0.0	siccash.com
 0.0.0.0	sitegoto.com
@@ -2570,6 +2573,7 @@
 0.0.0.0	unlimedia.net
 0.0.0.0	uuidksinc.net
 0.0.0.0	ver-pelis.net
+0.0.0.0	vid123.net
 0.0.0.0	vktr073.net
 0.0.0.0	vroll.net
 0.0.0.0	xclicks.net

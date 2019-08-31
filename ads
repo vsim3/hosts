@@ -5,7 +5,6 @@
 # Ignored duplicates: 5
 
 0.0.0.0	brand.ad
-0.0.0.0	allarmate.club
 0.0.0.0	anyaspasp.club
 0.0.0.0	faunlesnuff.co
 0.0.0.0	potedly.co
@@ -22,7 +21,6 @@
 0.0.0.0	at.hdsieunhanh.com
 0.0.0.0	media.jxf88.com
 0.0.0.0	jzdstqhknq.com
-0.0.0.0	m4clicks.com
 0.0.0.0	qc.mibet.com
 0.0.0.0	aff.opus-static.com
 0.0.0.0	pmddby.com
@@ -36,12 +34,9 @@
 0.0.0.0	qc.tclup.com
 0.0.0.0	teaserok.com
 0.0.0.0	v9banners.com
-0.0.0.0	vidcpm.com
 0.0.0.0	delivery.vungtv.com
 0.0.0.0	asecdn.w88media.com
-0.0.0.0	zukxd6fkxqn.com
 0.0.0.0	bbtrf.info
-0.0.0.0	hantinlethemsed.info
 0.0.0.0	genieesspv.jp
 0.0.0.0	gsspat.jp
 0.0.0.0	gssprt.jp
@@ -23414,6 +23409,7 @@
 0.0.0.0	adfpkxvaqeyj.com
 0.0.0.0	adgsfoxoavmc.com
 0.0.0.0	admlqqewbede.com
+0.0.0.0	adnsvuxmpaycdf.com
 0.0.0.0	adqvauwe.com
 0.0.0.0	adtikimdtfbb.com
 0.0.0.0	adudzlhdjgof.com
@@ -23761,6 +23757,7 @@
 0.0.0.0	bfrhqyaxtxbq.com
 0.0.0.0	bfsssvkowvh.com
 0.0.0.0	bftmphbwpwnnt.com
+0.0.0.0	bfvkxdhrnx.com
 0.0.0.0	bfxachbubcki.com
 0.0.0.0	bfzuuuuhvexxs.com
 0.0.0.0	bgbdzfeeoko.com
@@ -24049,6 +24046,7 @@
 0.0.0.0	cevwkduhwbuc.com
 0.0.0.0	cewegncr.com
 0.0.0.0	cewviaslxyyr.com
+0.0.0.0	ceyimthpmrct.com
 0.0.0.0	ceywprmvjy.com
 0.0.0.0	cfdmkifknsjt.com
 0.0.0.0	cfhkiriics.com
@@ -24123,6 +24121,7 @@
 0.0.0.0	ckjjcarzu.com
 0.0.0.0	ckjjnujgvfd.com
 0.0.0.0	ckkrlzxvy.com
+0.0.0.0	ckombcgg.com
 0.0.0.0	ckopycdb.com
 0.0.0.0	ckqgkazihvwc.com
 0.0.0.0	ckqkwhampiyb.com
@@ -24653,6 +24652,7 @@
 0.0.0.0	ectxnsxezdg.com
 0.0.0.0	ectysptouy.com
 0.0.0.0	ecvladelayk.com
+0.0.0.0	ecxgfgas.com
 0.0.0.0	edfthzanlsyse.com
 0.0.0.0	edgsscofljhc.com
 0.0.0.0	edlsdyhll.com
@@ -24694,10 +24694,12 @@
 0.0.0.0	egcsbdrj.com
 0.0.0.0	eghuntsrizvbt.com
 0.0.0.0	egkkeahdzjqy.com
+0.0.0.0	egqvppwseieyu.com
 0.0.0.0	egrcoshpisdnn.com
 0.0.0.0	egtkhpkkfswf.com
 0.0.0.0	ehcawmdqgq.com
 0.0.0.0	eheewlwlebwpd.com
+0.0.0.0	ehgefgcollhd.com
 0.0.0.0	ehhmynitx.com
 0.0.0.0	ehkovmky.com
 0.0.0.0	ehlfynuo.com
@@ -24837,6 +24839,7 @@
 0.0.0.0	eudcmqdyl.com
 0.0.0.0	eugxcnqw.com
 0.0.0.0	euhewiruckv.com
+0.0.0.0	euktoywjpdxpdh.com
 0.0.0.0	eupwogkcjczz.com
 0.0.0.0	eutdrjvsrmav.com
 0.0.0.0	eutklhuazxlt.com
@@ -24901,6 +24904,7 @@
 0.0.0.0	ezjrnbpjthir.com
 0.0.0.0	ezknqsblzmsl.com
 0.0.0.0	ezlxnyhbjtqr.com
+0.0.0.0	ezqkuwqlvnv.com
 0.0.0.0	ezqldmevi.com
 0.0.0.0	ezrutveckpuly.com
 0.0.0.0	eztfsnnttpqfs.com
@@ -25129,6 +25133,7 @@
 0.0.0.0	frtfwlvwuw.com
 0.0.0.0	frxohovv.com
 0.0.0.0	fryxaknn.com
+0.0.0.0	fsaticze.com
 0.0.0.0	fscslwmvbadncb.com
 0.0.0.0	fsddidfmmzvw.com
 0.0.0.0	fsdvydpldxrbu.com
@@ -25239,6 +25244,7 @@
 0.0.0.0	fzrcalpbcu.com
 0.0.0.0	fzrqfakeaqikwm.com
 0.0.0.0	fzsiwzxnqadb.com
+0.0.0.0	fzvydcgqazrr.com
 0.0.0.0	fzwxuqoy.com
 0.0.0.0	fzyxygxa.com
 0.0.0.0	fzzudxglrnrr.com
@@ -25441,6 +25447,7 @@
 0.0.0.0	gsdolqvdjr.com
 0.0.0.0	gsfvzgnu.com
 0.0.0.0	gsghbxydcyum.com
+0.0.0.0	gsimjyplcciwgb.com
 0.0.0.0	gsipjksiepxsqi.com
 0.0.0.0	gsiqerorqkxu.com
 0.0.0.0	gsjhehtqvin.com
@@ -25473,6 +25480,7 @@
 0.0.0.0	gugemfslzh.com
 0.0.0.0	guhpyglt.com
 0.0.0.0	guhtjoqtobac.com
+0.0.0.0	guknpywmxk.com
 0.0.0.0	gumdeqjzclc.com
 0.0.0.0	guoyhfjrpt.com
 0.0.0.0	gurrfwsscwda.com
@@ -25568,6 +25576,7 @@
 0.0.0.0	hcmjlsxhebb.com
 0.0.0.0	hcqjgkpg.com
 0.0.0.0	hcrsxbke.com
+0.0.0.0	hcskwstr.com
 0.0.0.0	hctcdmqp.com
 0.0.0.0	hcwdcintgl.com
 0.0.0.0	hcycanmscyg.com
@@ -25611,6 +25620,7 @@
 0.0.0.0	hgbxmqyqoplpif.com
 0.0.0.0	hgdmzshm.com
 0.0.0.0	hgdovdnd.com
+0.0.0.0	hgeojizz.com
 0.0.0.0	hgfgzqwbjnebd.com
 0.0.0.0	hgowmgat.com
 0.0.0.0	hgukeujwsfgwrq.com
@@ -25749,6 +25759,7 @@
 0.0.0.0	hrdbamvfzipe.com
 0.0.0.0	hrkshoveizfo.com
 0.0.0.0	hrmqqrvqaxvzb.com
+0.0.0.0	hrnklivlbhf.com
 0.0.0.0	hrorxufknjdm.com
 0.0.0.0	hrskwmpvpgocj.com
 0.0.0.0	hrtgkdwjbjblb.com
@@ -25869,9 +25880,11 @@
 0.0.0.0	ibleigzj.com
 0.0.0.0	ibnuoduab.com
 0.0.0.0	ibqmccuuhjqc.com
+0.0.0.0	ibxfhtklswtbd.com
 0.0.0.0	ibycicwahzg.com
 0.0.0.0	icahllwjc.com
 0.0.0.0	icdkqyeydxpjmw.com
+0.0.0.0	icfgedouno.com
 0.0.0.0	icfjzmqsejzfb.com
 0.0.0.0	icfxndxwpan.com
 0.0.0.0	icgakpprechm.com
@@ -25912,6 +25925,7 @@
 0.0.0.0	ieuezabolxphga.com
 0.0.0.0	iewsaprgerkjny.com
 0.0.0.0	ifbhceoxx.com
+0.0.0.0	ifbwyogrfjo.com
 0.0.0.0	ifdmdfqysaacqa.com
 0.0.0.0	ifecuwzjajkiq.com
 0.0.0.0	ifeuddaywa.com
@@ -26253,6 +26267,7 @@
 0.0.0.0	jgedbspzlrjhp.com
 0.0.0.0	jgerrmaktdzyh.com
 0.0.0.0	jgjpicgy.com
+0.0.0.0	jgmvibtqe.com
 0.0.0.0	jgophcykrckik.com
 0.0.0.0	jgqcraids.com
 0.0.0.0	jgrcggutsilp.com
@@ -26374,6 +26389,7 @@
 0.0.0.0	joqnoyniblzm.com
 0.0.0.0	joqpatxugyug.com
 0.0.0.0	jorndvyzchaq.com
+0.0.0.0	jorsdbphuyng.com
 0.0.0.0	josxzdszqaivb.com
 0.0.0.0	jotpybmcjvg.com
 0.0.0.0	jovepjufhmmw.com
@@ -26486,6 +26502,7 @@
 0.0.0.0	jyccdcavzpqt.com
 0.0.0.0	jydbctzvbqrh.com
 0.0.0.0	jyezgitcx.com
+0.0.0.0	jyijwgsqj.com
 0.0.0.0	jynbcpfwvazazd.com
 0.0.0.0	jynhztwrsl.com
 0.0.0.0	jypmcknqvnfd.com
@@ -26555,6 +26572,7 @@
 0.0.0.0	kdhndryipp.com
 0.0.0.0	kdiunbsaw.com
 0.0.0.0	kdkzvfzmgvm.com
+0.0.0.0	kdluruaor.com
 0.0.0.0	kdmilqoiaucqto.com
 0.0.0.0	kdpqydaxbxztnh.com
 0.0.0.0	kdtictjmofbl.com
@@ -26871,6 +26889,7 @@
 0.0.0.0	leszvphhnytpk.com
 0.0.0.0	leuojmgbkpcl.com
 0.0.0.0	lexwdqnzmkdr.com
+0.0.0.0	lfahycetwt.com
 0.0.0.0	lfclktkwnc.com
 0.0.0.0	lfcnzhcnzded.com
 0.0.0.0	lffyoomtjjhvc.com
@@ -27205,6 +27224,7 @@
 0.0.0.0	mfwfpucpfya.com
 0.0.0.0	mfxjgymma.com
 0.0.0.0	mfxxpyhzofbsg.com
+0.0.0.0	mfxzxrveb.com
 0.0.0.0	mgdfebwxonyfe.com
 0.0.0.0	mgojnezwuuxyv.com
 0.0.0.0	mgouoirpayddk.com
@@ -27291,6 +27311,7 @@
 0.0.0.0	moginhstnxswt.com
 0.0.0.0	mogqlceldpwbxe.com
 0.0.0.0	mohcafpwpldi.com
+0.0.0.0	mohqurakhwvf.com
 0.0.0.0	mojhasmpl.com
 0.0.0.0	moleagmeq.com
 0.0.0.0	molqvpnnlmnb.com
@@ -27525,6 +27546,7 @@
 0.0.0.0	nidksyrrrtckzj.com
 0.0.0.0	nijksigqjzalcf.com
 0.0.0.0	nikxhdrys.com
+0.0.0.0	nimjdyknjzcp.com
 0.0.0.0	ninxcwcwgvr.com
 0.0.0.0	nirqmbrzplvtjr.com
 0.0.0.0	niviemwsmiaq.com
@@ -27537,6 +27559,7 @@
 0.0.0.0	njjybqyiuotl.com
 0.0.0.0	njlltkkaavws.com
 0.0.0.0	njmeadll.com
+0.0.0.0	njmztqqtigys.com
 0.0.0.0	njrpynolojcel.com
 0.0.0.0	njxjjvyim.com
 0.0.0.0	nkclrxanzeossa.com
@@ -27653,6 +27676,7 @@
 0.0.0.0	nucndowcvrugy.com
 0.0.0.0	nucqkjkvppgs.com
 0.0.0.0	nudooapfildwbz.com
+0.0.0.0	nuhwyavc.com
 0.0.0.0	nuihcvbixjea.com
 0.0.0.0	nuilpwatzeuvzp.com
 0.0.0.0	numcxvlfguc.com
@@ -27669,6 +27693,7 @@
 0.0.0.0	nvgcmeqfn.com
 0.0.0.0	nvjjquyylqicp.com
 0.0.0.0	nvkkjenz.com
+0.0.0.0	nvloygrnfe.com
 0.0.0.0	nvmjtxnlcdqo.com
 0.0.0.0	nvnbwkkryjqsvh.com
 0.0.0.0	nvnvyikitffcdr.com
@@ -27831,6 +27856,7 @@
 0.0.0.0	ojngisbfwwyp.com
 0.0.0.0	ojntbybxh.com
 0.0.0.0	ojsfjyekvmyb.com
+0.0.0.0	ojstdedb.com
 0.0.0.0	ojvwpiqnmecd.com
 0.0.0.0	ojwgkxcgdhvacc.com
 0.0.0.0	ojxzmlgl.com
@@ -28010,6 +28036,7 @@
 0.0.0.0	pbpdgojwzfdc.com
 0.0.0.0	pbttxbna.com
 0.0.0.0	pbuuadgoktmz.com
+0.0.0.0	pbyfsnjpnygyfc.com
 0.0.0.0	pbzmmqakvzhm.com
 0.0.0.0	pcbfhotfyuyg.com
 0.0.0.0	pcdzsowmktz.com
@@ -28198,6 +28225,7 @@
 0.0.0.0	psgdjmtpvey.com
 0.0.0.0	pshcqtizgdlm.com
 0.0.0.0	psijdbcwwnqqw.com
+0.0.0.0	pskadmzl.com
 0.0.0.0	pskajrxx.com
 0.0.0.0	psmlgjalddqu.com
 0.0.0.0	psnkrefrfh.com
@@ -28320,6 +28348,7 @@
 0.0.0.0	qclnagolz.com
 0.0.0.0	qclxheddcepf.com
 0.0.0.0	qcmukkhbyg.com
+0.0.0.0	qcnrblgdonypg.com
 0.0.0.0	qcogokgclksa.com
 0.0.0.0	qcpegxszbgjm.com
 0.0.0.0	qcrvwgsfz.com
@@ -28343,6 +28372,7 @@
 0.0.0.0	qegndwekwc.com
 0.0.0.0	qeivncvk.com
 0.0.0.0	qekmxaimxkok.com
+0.0.0.0	qelbvlacy.com
 0.0.0.0	qenprsuoashu.com
 0.0.0.0	qeobhjit.com
 0.0.0.0	qeqsibev.com
@@ -28619,6 +28649,7 @@
 0.0.0.0	ranqpbnd.com
 0.0.0.0	raqucjjblu.com
 0.0.0.0	rascnezpxpe.com
+0.0.0.0	rasittlbpwnbys.com
 0.0.0.0	raspiadkwcecz.com
 0.0.0.0	raxlextehqhw.com
 0.0.0.0	rbayzoamcrdg.com
@@ -29573,6 +29604,7 @@
 0.0.0.0	ufugfbtpp.com
 0.0.0.0	ufvehyxuiwe.com
 0.0.0.0	uggepqevz.com
+0.0.0.0	uggvuuquxj.com
 0.0.0.0	ugkppchlelde.com
 0.0.0.0	ugobgzeiel.com
 0.0.0.0	ugoptxnm.com
@@ -29700,6 +29732,7 @@
 0.0.0.0	uujzywpxxrroh.com
 0.0.0.0	uunriutbi.com
 0.0.0.0	uuzjerqlmxnosw.com
+0.0.0.0	uvawalhexufy.com
 0.0.0.0	uvmfrryhmaww.com
 0.0.0.0	uvniygdwmoojfm.com
 0.0.0.0	uvomthuqsqx.com
@@ -29715,6 +29748,7 @@
 0.0.0.0	uymxsbbh.com
 0.0.0.0	uytabzmvei.com
 0.0.0.0	uyxjnuqbti.com
+0.0.0.0	uyyalzrvkvmtiq.com
 0.0.0.0	uyznjuyfyjc.com
 0.0.0.0	uzikrtotjbnq.com
 0.0.0.0	uzlleehrsmibli.com
@@ -29786,6 +29820,7 @@
 0.0.0.0	vjfgmsly.com
 0.0.0.0	vjfkglkztcz.com
 0.0.0.0	vjgyxegvfrhthq.com
+0.0.0.0	vjhjolgaz.com
 0.0.0.0	vjltrbzrtqmkib.com
 0.0.0.0	vjqshoyjxwk.com
 0.0.0.0	vjzcgotoy.com
@@ -29800,6 +29835,7 @@
 0.0.0.0	vlscykmnd.com
 0.0.0.0	vltjkelvgvj.com
 0.0.0.0	vlwdjmvhf.com
+0.0.0.0	vlxszjkbwgt.com
 0.0.0.0	vlyuopulvewg.com
 0.0.0.0	vmftwflt.com
 0.0.0.0	vmrsmnrvzh.com
@@ -29853,6 +29889,7 @@
 0.0.0.0	vvqpavyfkr.com
 0.0.0.0	vvrygjuozwps.com
 0.0.0.0	vvscrhqok.com
+0.0.0.0	vvtysgrbmx.com
 0.0.0.0	vvvnbqnhxgs.com
 0.0.0.0	vvygnzor.com
 0.0.0.0	vvyimltzbnu.com
@@ -30068,6 +30105,7 @@
 0.0.0.0	xkcidzutjwukj.com
 0.0.0.0	xklrckmslshvq.com
 0.0.0.0	xkrbwsae.com
+0.0.0.0	xkyicwujsmepsh.com
 0.0.0.0	xlldzsgt.com
 0.0.0.0	xlnwabndmqn.com
 0.0.0.0	xlqkpyimdep.com
@@ -30132,6 +30170,7 @@
 0.0.0.0	xwxbiywlavgpm.com
 0.0.0.0	xxchhgilfheu.com
 0.0.0.0	xxdjmuekj.com
+0.0.0.0	xxggvfkuawkri.com
 0.0.0.0	xxhgzzinkrbbo.com
 0.0.0.0	xxhqfprml.com
 0.0.0.0	xxnkyesp.com
@@ -30208,6 +30247,7 @@
 0.0.0.0	ymhqeelitngcr.com
 0.0.0.0	ympkaxpaf.com
 0.0.0.0	ymsutnllwwcm.com
+0.0.0.0	ymwvkruyidppb.com
 0.0.0.0	ymzrrizntbhde.com
 0.0.0.0	ynhetcoypgnl.com
 0.0.0.0	ynhonjqahrh.com
@@ -30221,6 +30261,7 @@
 0.0.0.0	ynuyzeqtswtd.com
 0.0.0.0	yodyfofkb.com
 0.0.0.0	yofyzgkoktwlc.com
+0.0.0.0	yonmzzszhf.com
 0.0.0.0	yoxrhwtvyqt.com
 0.0.0.0	ypictqesjuib.com
 0.0.0.0	ypixrvxi.com
@@ -30293,6 +30334,7 @@
 0.0.0.0	zabpkrvgswdroz.com
 0.0.0.0	zadhrsvmawp.com
 0.0.0.0	zadwsvgxpfgtii.com
+0.0.0.0	zasccycohek.com
 0.0.0.0	zatrlsov.com
 0.0.0.0	zavlamhx.com
 0.0.0.0	zayhipbcxig.com
@@ -30335,6 +30377,7 @@
 0.0.0.0	zhpdtoott.com
 0.0.0.0	zhrmtsxcdkjj.com
 0.0.0.0	zhxdiirwhtico.com
+0.0.0.0	ziebgbikz.com
 0.0.0.0	ziqdunppuzjd.com
 0.0.0.0	zjkdrqtjowihn.com
 0.0.0.0	zjncvhnkh.com
@@ -30388,6 +30431,7 @@
 0.0.0.0	zqqyhcqf.com
 0.0.0.0	zqseasmu.com
 0.0.0.0	zqswmyzlkcvrtu.com
+0.0.0.0	zqxmeahcm.com
 0.0.0.0	zramisxvxmkf.com
 0.0.0.0	zrcaldozggijht.com
 0.0.0.0	zrcavgvtxqcbu.com
@@ -30415,6 +30459,7 @@
 0.0.0.0	zwfvzxmc.com
 0.0.0.0	zwmauyerfotyh.com
 0.0.0.0	zwpaujzg.com
+0.0.0.0	zwprxzbnzxc.com
 0.0.0.0	zwsyqdnhnyzckt.com
 0.0.0.0	zxaoudwcljrtig.com
 0.0.0.0	zxbzuyuifdqj.com
@@ -39412,7 +39457,6 @@
 0.0.0.0	proext.com
 0.0.0.0	profero.com
 0.0.0.0	programattik.com
-0.0.0.0	promotion-campaigns.com
 0.0.0.0	pronetadvertising.com
 0.0.0.0	propellerads.com
 0.0.0.0	proton-tm.com
@@ -39437,6 +39481,7 @@
 0.0.0.0	rankingscout.com
 0.0.0.0	rapidcounter.com
 0.0.0.0	rayjump.com
+0.0.0.0	re-directme.com
 0.0.0.0	reachjunction.com
 0.0.0.0	reactx.com
 0.0.0.0	realcastmedia.com
@@ -39658,7 +39703,6 @@
 0.0.0.0	zenzuu.com
 0.0.0.0	zeusclicks.com
 0.0.0.0	li.ziffimages.com
-0.0.0.0	zm232.com
 0.0.0.0	zy16eoat1w.com
 0.0.0.0	matomo.activate.cz
 0.0.0.0	advisormedia.cz
@@ -39697,7 +39741,6 @@
 0.0.0.0	banner-exchange-24.de
 0.0.0.0	ads.berlinonline.de
 0.0.0.0	blogcounter.de
-0.0.0.0	boersego-ads.de
 0.0.0.0	boost-my-pr.de
 0.0.0.0	clicktag.de
 0.0.0.0	commindo-media-ressourcen.de
@@ -39772,7 +39815,6 @@
 0.0.0.0	chart.dk
 0.0.0.0	ads.edbindex.dk
 0.0.0.0	emediate.dk
-0.0.0.0	ads.harvard.edu
 0.0.0.0	gml.email
 0.0.0.0	edaa.eu
 0.0.0.0	emediate.eu
@@ -39866,7 +39908,6 @@
 0.0.0.0	auctionads.net
 0.0.0.0	bestsearch.net
 0.0.0.0	bidswitch.net
-0.0.0.0	bitads.net
 0.0.0.0	carbonads.net
 0.0.0.0	chartbeat.net
 0.0.0.0	chitika.net
@@ -39906,7 +39947,6 @@
 0.0.0.0	mystat-in.net
 0.0.0.0	mytop-in.net
 0.0.0.0	myvisualiq.net
-0.0.0.0	mzbcdn.net
 0.0.0.0	nend.net
 0.0.0.0	netshelter.net
 0.0.0.0	ads.wikia.nocookie.net
@@ -40054,7 +40094,7 @@
 
 # Ignored duplicates: 37
 
-# Ignored entries due to the whitelist: 4
+# Ignored entries due to the whitelist: 5
 
 0.0.0.0	123456.asia
 0.0.0.0	cloudad.asia
@@ -40276,6 +40316,7 @@
 0.0.0.0	awifi.cn
 0.0.0.0	awqsaged.cn
 0.0.0.0	b0lc.cn
+0.0.0.0	b25ku.cn
 0.0.0.0	acodes.b2b.cn
 0.0.0.0	b54ah.cn
 0.0.0.0	b7nkd.cn
@@ -40535,6 +40576,7 @@
 0.0.0.0	haizirv.cn
 0.0.0.0	hajuwang.cn
 0.0.0.0	hbalx.cn
+0.0.0.0	hc29x.cn
 0.0.0.0	headwell.cn
 0.0.0.0	hebhec.cn
 0.0.0.0	hechaocheng.cn
@@ -40591,6 +40633,7 @@
 0.0.0.0	wj.jiancai365.cn
 0.0.0.0	jianglishi.cn
 0.0.0.0	jiaofulin.cn
+0.0.0.0	jiaqingli.cn
 0.0.0.0	jim86d.cn
 0.0.0.0	jingezhao.cn
 0.0.0.0	jinglongtang.cn
@@ -40638,6 +40681,7 @@
 0.0.0.0	la61d.cn
 0.0.0.0	la71f.cn
 0.0.0.0	lanhouhou.cn
+0.0.0.0	last2.cn
 0.0.0.0	le123.cn
 0.0.0.0	lerenzx.cn
 0.0.0.0	let83.cn
@@ -41367,6 +41411,7 @@
 0.0.0.0	810236.com
 0.0.0.0	810251.com
 0.0.0.0	m1.81312.com
+0.0.0.0	815ff.com
 0.0.0.0	825145.com
 0.0.0.0	827649.com
 0.0.0.0	8368661.com
@@ -42691,6 +42736,7 @@
 0.0.0.0	jullycn.com
 0.0.0.0	jundazulin.com
 0.0.0.0	junfull.com
+0.0.0.0	junkucm.com
 0.0.0.0	junnew.com
 0.0.0.0	juren0.com
 0.0.0.0	jusha.com
@@ -42802,6 +42848,7 @@
 0.0.0.0	kxrxh.com
 0.0.0.0	kyad88.com
 0.0.0.0	kyouad.com
+0.0.0.0	ladsblue.com
 0.0.0.0	laifu365.com
 0.0.0.0	laksdn.com
 0.0.0.0	lamwatch.com
@@ -43050,6 +43097,7 @@
 0.0.0.0	ntpddq.com
 0.0.0.0	ntxiangtai.com
 0.0.0.0	nunc-china.com
+0.0.0.0	nvsea.com
 0.0.0.0	nvshuyun.com
 0.0.0.0	nwwap.com
 0.0.0.0	nwxzs.com
@@ -43251,6 +43299,7 @@
 0.0.0.0	qzkxt.com
 0.0.0.0	qzmhnk.com
 0.0.0.0	qzzljx.com
+0.0.0.0	lyz.radio366.com
 0.0.0.0	rainfinemalawi.com
 0.0.0.0	raonie.com
 0.0.0.0	rbmry.com
@@ -43501,6 +43550,7 @@
 0.0.0.0	tbjfw.com
 0.0.0.0	tc600.com
 0.0.0.0	tchep.com
+0.0.0.0	tcmdz.com
 0.0.0.0	tcnmf.com
 0.0.0.0	tdain.com
 0.0.0.0	tdayi.com
@@ -43543,7 +43593,6 @@
 0.0.0.0	tjshuimu.com
 0.0.0.0	tkshyp.com
 0.0.0.0	tkssw.com
-0.0.0.0	to8to.com
 0.0.0.0	tochgw.com
 0.0.0.0	togo666.com
 0.0.0.0	tongdejiayuan.com
@@ -43723,6 +43772,7 @@
 0.0.0.0	wcjup.com
 0.0.0.0	wdeie.com
 0.0.0.0	wdiur.com
+0.0.0.0	wdymwzz.com
 0.0.0.0	m1.we556.com
 0.0.0.0	weareqy.com
 0.0.0.0	cbdm.weathercn.com
@@ -43786,6 +43836,7 @@
 0.0.0.0	wq42219.com
 0.0.0.0	ws341.com
 0.0.0.0	ws7j.com
+0.0.0.0	wsgblw.com
 0.0.0.0	wshufa.com
 0.0.0.0	wsoue.com
 0.0.0.0	wstztt.com
@@ -44234,6 +44285,7 @@
 0.0.0.0	zzrcz.com
 0.0.0.0	zzsdjq.com
 0.0.0.0	zzsno1.com
+0.0.0.0	zzsssy.com
 0.0.0.0	zzyonghao.com
 0.0.0.0	xayah.date
 0.0.0.0	fanli.in
@@ -44613,6 +44665,7 @@
 0.0.0.0	miyudaquan.top
 0.0.0.0	nihao987654.top
 0.0.0.0	nkeo.top
+0.0.0.0	pianyi95.top
 0.0.0.0	pitena.top
 0.0.0.0	powergg.top
 0.0.0.0	sangxi.top
@@ -44620,6 +44673,7 @@
 0.0.0.0	wcnmd.top
 0.0.0.0	weiziqiang.top
 0.0.0.0	ad.wurangxian.top
+0.0.0.0	wuwuhh.top
 0.0.0.0	zhaibei112.top
 0.0.0.0	zhuyuanp.top
 0.0.0.0	ad.52av.tv
@@ -44672,6 +44726,7 @@
 0.0.0.0	soso.ws
 0.0.0.0	sss.sege.xxx
 0.0.0.0	ajkdg3.xyz
+0.0.0.0	blogdaka.xyz
 0.0.0.0	gogolm.xyz
 0.0.0.0	gotourl.xyz
 0.0.0.0	ip.hivps.xyz
@@ -45155,7 +45210,6 @@
 0.0.0.0	radiusmarketing.com
 0.0.0.0	ragapa.com
 0.0.0.0	rainbowtgx.com
-0.0.0.0	re-directme.com
 0.0.0.0	realsecuredredirect.com
 0.0.0.0	recentres.com
 0.0.0.0	rediskina.com
@@ -45484,6 +45538,7 @@
 0.0.0.0	adstream.de
 0.0.0.0	affilijack.de
 0.0.0.0	baldiro.de
+0.0.0.0	boersego-ads.de
 0.0.0.0	european-toplist.de
 0.0.0.0	track.free-toplist.de
 0.0.0.0	kt-g.de
@@ -45685,7 +45740,7 @@
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/advblock.txt ##########
 
-# Ignored duplicates: 200
+# Ignored duplicates: 199
 
 # Ignored entries due to the whitelist: 46
 
@@ -46603,6 +46658,7 @@
 0.0.0.0	duvyu.com
 0.0.0.0	dwtes.com
 0.0.0.0	dyjdj358q.com
+0.0.0.0	dytupr.com
 0.0.0.0	dyzha.com
 0.0.0.0	dz01rk.com
 0.0.0.0	dznhe.com
@@ -47141,6 +47197,7 @@
 0.0.0.0	lycodz.com
 0.0.0.0	lycosy.com
 0.0.0.0	lydiz.com
+0.0.0.0	m4clicks.com
 0.0.0.0	macanspeed.com
 0.0.0.0	b.madplace99.com
 0.0.0.0	mafecotegu.com
@@ -48307,6 +48364,7 @@
 0.0.0.0	videoblock.co.il
 0.0.0.0	4736.in
 0.0.0.0	adpod.in
+0.0.0.0	adv-fmts.in
 0.0.0.0	dosugcz.in
 0.0.0.0	four8city.in
 0.0.0.0	head-gshame.in
@@ -49285,6 +49343,7 @@
 0.0.0.0	2sl77o9d.pro
 0.0.0.0	2x.pro
 0.0.0.0	2zykiiugp.pro
+0.0.0.0	adjfjka.pro
 0.0.0.0	admag.pro
 0.0.0.0	adoffer.pro
 0.0.0.0	adsteroid.pro
@@ -49692,6 +49751,7 @@
 0.0.0.0	appaugust.ru
 0.0.0.0	appboost.ru
 0.0.0.0	aprelend.ru
+0.0.0.0	apronspb.ru
 0.0.0.0	apsukho.ru
 0.0.0.0	aptexof.ru
 0.0.0.0	aqwelso.ru
@@ -50301,6 +50361,7 @@
 0.0.0.0	fdrschv.ru
 0.0.0.0	fdsfsderfbigclick.ru
 0.0.0.0	fegmamy.ru
+0.0.0.0	fejhjhddaajibegjadf.ru
 0.0.0.0	dominas.femdomina.ru
 0.0.0.0	fermasosedi.ru
 0.0.0.0	fextor.ru
@@ -50596,6 +50657,7 @@
 0.0.0.0	info-blog24.ru
 0.0.0.0	info4park.ru
 0.0.0.0	infoblogs.ru
+0.0.0.0	infocelebrit.ru
 0.0.0.0	infomovie.ru
 0.0.0.0	inforesell.ru
 0.0.0.0	inmeund.ru
@@ -50663,6 +50725,7 @@
 0.0.0.0	julidoll.ru
 0.0.0.0	juppser.ru
 0.0.0.0	jusorpa.ru
+0.0.0.0	justiva.ru
 0.0.0.0	jxo3yhu8m.ru
 0.0.0.0	k3dqv.ru
 0.0.0.0	k675zr.ru
@@ -51488,6 +51551,7 @@
 0.0.0.0	qooqleplay.ru
 0.0.0.0	qqdress.ru
 0.0.0.0	qqjar.ru
+0.0.0.0	qqmeat.ru
 0.0.0.0	qqmilk.ru
 0.0.0.0	qshare.ru
 0.0.0.0	bs.quadrosystems.ru
@@ -51910,6 +51974,7 @@
 0.0.0.0	tiz-et.ru
 0.0.0.0	tizenoid.ru
 0.0.0.0	tizerlady.ru
+0.0.0.0	tizerleads.ru
 0.0.0.0	tizermanako.ru
 0.0.0.0	tizero.ru
 0.0.0.0	tizertracker.ru
@@ -52894,6 +52959,7 @@
 0.0.0.0	sds012.xyz
 0.0.0.0	sds112.xyz
 0.0.0.0	spraydoses.xyz
+0.0.0.0	the-kinopush.xyz
 0.0.0.0	tiredbear.xyz
 0.0.0.0	tiredduck.xyz
 0.0.0.0	truebluecolour.xyz
@@ -52935,7 +53001,7 @@
 
 ########## Blacklist from https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt ##########
 
-# Ignored duplicates: 1880
+# Ignored duplicates: 1885
 
 # Ignored entries due to the whitelist: 10
 
@@ -52990,7 +53056,6 @@
 0.0.0.0	teespoon.co
 0.0.0.0	denis928.000webhostapp.com
 0.0.0.0	kodyrabatowe.16mb.com
-0.0.0.0	1freesoftwareonline.com
 0.0.0.0	4life.com
 0.0.0.0	5k-player.com
 0.0.0.0	y4681.6128786.com
@@ -53280,7 +53345,6 @@
 0.0.0.0	mobsfun.com
 0.0.0.0	mobstarr.com
 0.0.0.0	mobverify.com
-0.0.0.0	modi4moda.com
 0.0.0.0	mojapsina.com
 0.0.0.0	momoxxio.com
 0.0.0.0	moneywin24.com
@@ -53321,6 +53385,7 @@
 0.0.0.0	onlinerekruter.com
 0.0.0.0	onlineslotmaschine.com
 0.0.0.0	openwrt.com
+0.0.0.0	oplac24.com
 0.0.0.0	optimask-pro.com
 0.0.0.0	organogold.com
 0.0.0.0	pl.oriflame.com
@@ -53518,6 +53583,7 @@
 0.0.0.0	lauretta-larix.eu
 0.0.0.0	megachiny.eu
 0.0.0.0	myacn.eu
+0.0.0.0	naleznoscgov.eu
 0.0.0.0	onecoin.eu
 0.0.0.0	onelife.eu
 0.0.0.0	oplac-zaleglosc.eu
@@ -53651,7 +53717,7 @@
 0.0.0.0	aldaniti.net
 0.0.0.0	antyspam.net
 0.0.0.0	areyouabot.net
-0.0.0.0	bewox.net
+0.0.0.0	cello24.net
 0.0.0.0	centrum-agd.net
 0.0.0.0	centrum-kredytowe.net
 0.0.0.0	d3r6awv9ysiyn4.cloudfront.net
@@ -53754,6 +53820,7 @@
 0.0.0.0	appfox.org
 0.0.0.0	balsit.org
 0.0.0.0	bazafilmowa.org
+0.0.0.0	calzini.org
 0.0.0.0	dagcoin.org
 0.0.0.0	doladujfona.org
 0.0.0.0	dopalacze-sklep.org
@@ -53964,6 +54031,7 @@
 0.0.0.0	darmowe-doladowanie.pl
 0.0.0.0	dascoin-info.pl
 0.0.0.0	dasecosystem.pl
+0.0.0.0	deloxar.pl
 0.0.0.0	detoxpolska.pl
 0.0.0.0	dhl-24.pl
 0.0.0.0	dietovo.pl
@@ -53991,6 +54059,7 @@
 0.0.0.0	e-podgladaj.pl
 0.0.0.0	e-udanezakupy.pl
 0.0.0.0	easydownload.pl
+0.0.0.0	ebobel.pl
 0.0.0.0	ebookeo.pl
 0.0.0.0	eco-flow.pl
 0.0.0.0	ecoflow.pl
@@ -54020,6 +54089,7 @@
 0.0.0.0	euresco.pl
 0.0.0.0	europartner.pl
 0.0.0.0	europeancupkyokushin.pl
+0.0.0.0	kiepscy.evai.pl
 0.0.0.0	f-ads.pl
 0.0.0.0	f4u.pl
 0.0.0.0	fajne-filmy.pl
@@ -54273,6 +54343,7 @@
 0.0.0.0	oplatyi.pl
 0.0.0.0	oponykarbownik.pl
 0.0.0.0	kolor.oq.pl
+0.0.0.0	ebuty.org.pl
 0.0.0.0	moviestarplanet-hack.org.pl
 0.0.0.0	porwanonatalie.org.pl
 0.0.0.0	seriale.org.pl
@@ -54616,9 +54687,9 @@
 
 ########## Blacklist from https://easylist-downloads.adblockplus.org/easylist_noelemhide.txt ##########
 
-# Ignored duplicates: 12107
+# Ignored duplicates: 12151
 
-# Ignored entries due to the whitelist: 22
+# Ignored entries due to the whitelist: 23
 
 0.0.0.0	js.cdn.ac
 0.0.0.0	tube.ac
@@ -55307,6 +55378,7 @@
 0.0.0.0	tmpopenclose.click
 0.0.0.0	vicegnem.click
 0.0.0.0	wct.click
+0.0.0.0	allarmate.club
 0.0.0.0	clckmedia.club
 0.0.0.0	clipurl.club
 0.0.0.0	coolsite.club
@@ -55733,6 +55805,7 @@
 0.0.0.0	59zs1xei.com
 0.0.0.0	5ad954477413bdb77f.com
 0.0.0.0	5b5a93686577c13.com
+0.0.0.0	5bc58da97b.com
 0.0.0.0	5clickcashsoftware.com
 0.0.0.0	5d02977f6511aa.com
 0.0.0.0	5dabf928ad9ad4.com
@@ -55811,6 +55884,7 @@
 0.0.0.0	74d382def7b08.com
 0.0.0.0	74da0fffc981.com
 0.0.0.0	750industries.com
+0.0.0.0	754daf9cd396259.com
 0.0.0.0	757a51ce62f.com
 0.0.0.0	758c824671f4fc0.com
 0.0.0.0	75b64c9763a13418e.com
@@ -55898,6 +55972,7 @@
 0.0.0.0	91mobiles.com
 0.0.0.0	924e60106cd9d0e.com
 0.0.0.0	927a8dd1afec73.com
+0.0.0.0	929a6f82280b7f.com
 0.0.0.0	9376ec23d50b1.com
 0.0.0.0	939237cdc62078.com
 0.0.0.0	93c8c9a28e1db445.com
@@ -55926,6 +56001,7 @@
 0.0.0.0	9d683ea679bc03ff.com
 0.0.0.0	9de40afd8952279e2e.com
 0.0.0.0	9e5420f6be48ccc.com
+0.0.0.0	9ec10065c976f.com
 0.0.0.0	9f23ab605837.com
 0.0.0.0	9f4272342f817.com
 0.0.0.0	9h7n8.com
@@ -57148,6 +57224,7 @@
 0.0.0.0	dc121677.com
 0.0.0.0	dc40b24004fa11f35b7.com
 0.0.0.0	dc63bfb069ea522f.com
+0.0.0.0	dc76b15913c.com
 0.0.0.0	dcneohtx.com
 0.0.0.0	ddaac98f67e384d8a9.com
 0.0.0.0	ddprxzxnhzbq.com
@@ -57289,6 +57366,7 @@
 0.0.0.0	dropzenad.com
 0.0.0.0	drqjihcfdrqj.com
 0.0.0.0	dsf4t5jfds34j.com
+0.0.0.0	dsstrk.com
 0.0.0.0	burnside.dtcn.com
 0.0.0.0	dtiserv2.com
 0.0.0.0	dtmpub.com
@@ -57335,6 +57413,7 @@
 0.0.0.0	e331ff4e674c083.com
 0.0.0.0	e347bb14dc71778.com
 0.0.0.0	e350570881272e.com
+0.0.0.0	e4aa8afa77b8.com
 0.0.0.0	e521d17fa185a2.com
 0.0.0.0	e65ew88.com
 0.0.0.0	e68aa3c8f17.com
@@ -58729,6 +58808,7 @@
 0.0.0.0	mobikano.com
 0.0.0.0	mobileadspopup.com
 0.0.0.0	mobilerevenu.com
+0.0.0.0	mobilevq.com
 0.0.0.0	mobiright.com
 0.0.0.0	mobisla.com
 0.0.0.0	moborobot.com
@@ -59332,6 +59412,7 @@
 0.0.0.0	promocionesweb.com
 0.0.0.0	img.promoddl.com
 0.0.0.0	promoted.com
+0.0.0.0	promotion-campaigns.com
 0.0.0.0	promowebstar.com
 0.0.0.0	propbigo.com
 0.0.0.0	propbn.com
@@ -60465,6 +60546,7 @@
 0.0.0.0	vicofhozbuaf.com
 0.0.0.0	victorance.com
 0.0.0.0	vid7delivery.com
+0.0.0.0	vidcpm.com
 0.0.0.0	video-people.com
 0.0.0.0	videodeals.com
 0.0.0.0	videoindigen.com
@@ -61567,6 +61649,7 @@
 0.0.0.0	zlvbqseyjdna.com
 0.0.0.0	zlxfpawyyoq.com
 0.0.0.0	zlxwasugtn.com
+0.0.0.0	zm232.com
 0.0.0.0	zmbrweqglexv.com
 0.0.0.0	zmkkiqghh.com
 0.0.0.0	zmnqoymznwng.com
@@ -61646,6 +61729,7 @@
 0.0.0.0	zudyyulnjdqmn.com
 0.0.0.0	zugo.com
 0.0.0.0	zukabota.com
+0.0.0.0	zukxd6fkxqn.com
 0.0.0.0	zupeaoohmntp.com
 0.0.0.0	zutnlpnzxtt.com
 0.0.0.0	zuuwfrphdgxk.com
@@ -61962,6 +62046,7 @@
 0.0.0.0	grobido.info
 0.0.0.0	halpeperglagedokkei.info
 0.0.0.0	hanlowu.info
+0.0.0.0	hantinlethemsed.info
 0.0.0.0	happer.info
 0.0.0.0	hausly.info
 0.0.0.0	hdpass.info
@@ -62221,7 +62306,6 @@
 0.0.0.0	ebz.io
 0.0.0.0	freestar.io
 0.0.0.0	galaks.io
-0.0.0.0	gleam.io
 0.0.0.0	links.io
 0.0.0.0	mosaiq.io
 0.0.0.0	nextmillennium.io
@@ -62443,6 +62527,7 @@
 0.0.0.0	bh3.net
 0.0.0.0	bidhead.net
 0.0.0.0	bigadpoint.net
+0.0.0.0	bitads.net
 0.0.0.0	ad.bitbay.net
 0.0.0.0	boashesu.net
 0.0.0.0	bposterss.net
@@ -63496,6 +63581,7 @@
 0.0.0.0	fliionos.co.uk
 0.0.0.0	freebannerswap.co.uk
 0.0.0.0	future-hawk-content.co.uk
+0.0.0.0	gatorleads.co.uk
 0.0.0.0	mms.graziadaily.co.uk
 0.0.0.0	guardiandigitalcomparison.co.uk
 0.0.0.0	linicom.co.uk
